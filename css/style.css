@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Lora:wght@400;700&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Lora', serif;
+	font-size: 18px
+}
+h1, h2, h3 {
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 30px;
+}
+
+
+a{
+	text-decoration: none;
+	color: #2C061F;
+	font-weight: bold;
+}
+a:hover{
+	color:  black;
+}
